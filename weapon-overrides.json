@@ -1,0 +1,81 @@
+{
+  "reprised_exotic": {
+    "S22": {
+      "weapons": [2188764214, 46125926],
+      "season": 22
+    }
+  },
+  "fotl": {
+    "thunderlord": {
+      "weapons": [3325463374],
+      "event": "Festival of the Lost",
+      "season": 4
+    },
+    "2021": {
+      "weapons": [2261046232],
+      "event": "Festival of the Lost 2021",
+      "season": 15
+    },
+    "2022": {
+      "weapons": [2869466318, 2603335652, 1280894514],
+      "event": "Festival of the Lost 2022",
+      "season": 18
+    },
+    "2023": {
+      "weapons": [413901114, 177568179, 3103255595, 3871226707],
+      "event": "Festival of the Lost 2023",
+      "season": 22
+    }
+  },
+  "dawning": {
+    "2021": {
+      "weapons": [3400256755],
+      "event": "The Dawning 2021",
+      "season": 15
+    },
+    "2022": {
+      "weapons": [495940989, 2814093983, 3573686365, 2812100428, 396910433],
+      "event": "The Dawning 2022",
+      "season": 19
+    },
+    "2023": {
+      "weapons": [2680976411, 4220529694, 3206190066, 2728851518, 1891321753, 1911078836],
+      "event": "The Dawning 2023",
+      "season": 23
+    }
+  },
+  "ggames": {
+    "2022": {
+      "weapons": [294129361],
+      "event": "Guardian Games 2022",
+      "season": 16
+    },
+    "2023": {
+      "weapons": [1389546626, 3559361670],
+      "event": "Guardian Games 2023",
+      "season": 20
+    },
+    "2024": {
+      "weapons": [657927352, 3007479950, 655712834],
+      "event": "Guardian Games 2024",
+      "season": 23
+    }
+  },
+  "solstice": {
+    "2021": {
+      "weapons": [2591111628],
+      "event": "Solstice 2021",
+      "season": 14
+    },
+    "2022": {
+      "weapons": [1856262127],
+      "event": "Solstice 2022",
+      "season": 17
+    },
+    "2023": {
+      "weapons": [233896077, 3256453690, 3240434620],
+      "event": "Solstice 2023",
+      "season": 21
+    }
+  }
+}
